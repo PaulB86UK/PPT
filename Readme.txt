@@ -1,0 +1,1 @@
+This repo is a sample of a project of a blockchain App, and also a testing environment for another app (private project) I am working in.
